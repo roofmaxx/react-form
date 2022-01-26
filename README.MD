@@ -19,10 +19,13 @@ Add this HTML element wherever you would to see the form on your page:
 **Please note: you MUST include a value for data-dealer-id**
 
 ###EXAMPLE 1:
-<div id="roofmaxx-form" data-dealer-id="123456789"></div>
+
+    <div id="roofmaxx-form" data-dealer-id="123456789"></div>
 
 ###EXAMPLE 2:
-<div id="roofmaxx-form" data-dealer-id="123456789" data-source-vendor="" data-thank-you-page=""></div>
+
+    <div id="roofmaxx-form" data-dealer-id="123456789" data-source-vendor="" data-thank-you-page=""></div>
 
 ###EXAMPLE 3:
-<div id="roofmaxx-form" data-dealer-id="123456789" data-source-vendor="SM" data-thank-you-page="https://google.com"></div>
+
+    <div id="roofmaxx-form" data-dealer-id="123456789" data-source-vendor="SM" data-thank-you-page="https://google.com"></div>
