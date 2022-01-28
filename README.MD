@@ -3,10 +3,17 @@ Requests submitted through this form will go into Hubspot, and then on to Client
 
 If you need any assistance, please contact techsupport-at-roofmaxx-dot-com or marketing-at-roofmaxx-dot-com.
 
+*Please note that as of January 2022, this is experimental and likely to change. Please check back often for updates and keep in touch with us to be sure you have the most current version.*
+
+
+Installation Instructions
+===
+
 Step One: CSS and JS
 ===
 
-Using the following URL's, include the CSS and JS files in the head of your page:
+Include the CSS and JS files in the head of your page:
+
 
 CSS:
 ---
@@ -20,7 +27,7 @@ JS:
 
 
 Step 2: HTML
----
+===
 
 Add this HTML element wherever you would to see the form on your page:
 
