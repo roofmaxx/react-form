@@ -5,15 +5,15 @@ Step One: CSS and JS
 
 Using the following URL's, include the CSS and JS files in the head of your page:
 
-JS:
----
-
-    https://cdn.jsdelivr.net/gh/roofmaxx/react-form/js/index.7058a028.min.js
-
 CSS:
 ---
 
-    https://cdn.jsdelivr.net/gh/roofmaxx/react-form/css/index.54bfa786.min.css
+    <link href="https://cdn.jsdelivr.net/gh/roofmaxx/react-form/css/54bfa786.min.css" rel="stylesheet">
+
+JS:
+---
+
+    <script type="module" src="https://cdn.jsdelivr.net/gh/roofmaxx/react-form/js/7058a028.js"></script>
 
 
 Step 2: HTML
